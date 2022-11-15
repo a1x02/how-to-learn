@@ -112,6 +112,7 @@
   display: flex;
   position: relative;
   min-height: 372px;
+  justify-content: space-between;
 }
 
 .two-columns__brief {
@@ -134,8 +135,7 @@
   padding: 0;
   width: 80%;
   min-width: 784px;
-  position: absolute;
-  right: 0;
+
 }
 
 .two-columns__paragraph {
@@ -407,14 +407,15 @@
   padding: 0;
   flex-basis: 711px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
   margin: 0;
   padding: 0;
-  position: absolute;
-  left: 0;
-  top: 0;
+
   width: 228px;
   height: 32px;
 }
@@ -422,9 +423,7 @@
 .footer__author {
   margin: 18px 0;
   padding: 0;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  width: fit-content;
 }
 
 .footer__author_text {
