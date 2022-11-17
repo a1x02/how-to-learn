@@ -9,9 +9,9 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-div, li, section, h2, a, .feynman, .digits {
-  border: 1px solid red;
-}
+/*div, li, section, h2, a, .feynman, .digits {*/
+/*  border: 1px solid red;*/
+/*}*/
 
 .logo {
   margin: 0;
