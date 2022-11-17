@@ -148,7 +148,7 @@ div, li, section, h2, a, .feynman, .digits {
 }
 
 .section-title {
-  margin: 100px auto 20px;
+  margin: 0 auto 20px;
   padding: 0;
   width: 60%;
   z-index: 3;
