@@ -10,6 +10,10 @@
   transition-duration: 1s;
 }
 
+.footer__column-link:last-of-type {
+  margin-bottom: 16px;
+}
+
 .footer__column-link:hover {
   opacity: 0.5;
 }
