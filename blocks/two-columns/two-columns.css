@@ -5,5 +5,5 @@
   display: flex;
   position: relative;
   justify-content: space-between;
-  z-index: 3  ;
+  z-index: 3;
 }
