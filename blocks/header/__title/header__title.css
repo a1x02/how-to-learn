@@ -1,5 +1,5 @@
 .header__title {
-  width: 730px;
+  max-width: 730px;
   align-self: center;
   margin: 0 0 0 64px;
   z-index: 3;

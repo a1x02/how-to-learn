@@ -6,5 +6,5 @@
   display: flex;
   list-style: none;
   flex-wrap: wrap;
-  height: 900px;
+  column-gap: 100px;
 }
